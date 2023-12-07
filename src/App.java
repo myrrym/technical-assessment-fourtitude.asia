@@ -19,6 +19,6 @@ public class App {
         System.out.println("- Task 3 -");
         task3.test();
         task3.basic();
-        // task3.advance();
+        task3.advance();
     }
 }
